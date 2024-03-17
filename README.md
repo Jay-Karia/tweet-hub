@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="download.png" style="width: 35%;aspect-ratio: 1;"/>
+    <img src="twitter_logo_banner_12.webp"/>
 </p>
   <h1 align="center">TweetHub</h1>
 
@@ -16,16 +16,21 @@ $~$
 - Feature 1
 - Feature 2
 - Feature 3
+- Feature 4
+- Feature 5
+- Feature 6
+- Feature 7
+- Feature 8
 
 $~$
 
 ### 🔴 Live App
-#### Checkout the live app on https://hosted-url.com
+Checkout the live app on https://hosted-url.com
 
 $~$
 
 ### ❔ Why
-#### I made this app to learn the following
+I made this app to learn the following
 - Item 1
 - Item 2
 - Item 3
@@ -65,3 +70,13 @@ $~$
    ```sh
    npm run dev
    ```
+
+$~$
+
+### 🚀 Deployment
+The app is deployed on [Vercel](https://vercel.com)
+
+$~$
+
+### 📝 Note
+The app in not developed yet! Development is in progress.
