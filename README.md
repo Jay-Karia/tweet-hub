@@ -1,13 +1,15 @@
 <p align="center">
-    <img src="twitter_logo_banner_12.webp"/>
+    <img src="public/twitter_logo_banner.webp"/>
 </p>
   <h1 align="center">TweetHub</h1>
 
 ### 📚 About
+TweetHub is a social media platform inspired by Twitter.
+Designed to offer users a centralized hub for sharing short messages and engaging with others.
 
-- TweetHub is a social media platform inspired by Twitter.
-- Designed to offer users a centralized hub for sharing short messages and engaging with others.
-- Users can seamlessly post tweets, follow their favorite accounts, and participate in conversations.
+Users can seamlessly post tweets, follow their favorite accounts, and participate in conversations.
+
+You can see the live app [here](https://test.com)
 
 $~$
 
@@ -24,13 +26,17 @@ $~$
 
 $~$
 
-### 🔴 Live App
-Checkout the live app on https://hosted-url.com
+### ❔ Why
+I made this app to learn the following
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
 $~$
 
-### ❔ Why
-I made this app to learn the following
+### 💻 Tech Stack
 - Item 1
 - Item 2
 - Item 3
@@ -49,7 +55,7 @@ $~$
    ```sh
    npm install
    ```
-3. Create a .env file
+3. Create a .env file in the root directory
 4. Setup MongoDB in '.env'
    ```js
     DATABASE_URL = "YOUR DATABASE URL"
@@ -69,12 +75,7 @@ $~$
 7. Run the app (in dev mode)
    ```sh
    npm run dev
-   ```
-
-$~$
-
-### 🚀 Deployment
-The app is deployed on [Vercel](https://vercel.com)
+   ``
 
 $~$
 
