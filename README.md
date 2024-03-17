@@ -20,7 +20,17 @@ $~$
 $~$
 
 ### 🔴 Live App
-Checkout the live app on https://hosted-url.com
+#### Checkout the live app on https://hosted-url.com
+
+$~$
+
+### ❔ Why
+#### I made this app to learn the following
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
 $~$
 
