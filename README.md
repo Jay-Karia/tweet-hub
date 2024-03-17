@@ -9,7 +9,7 @@ Designed to offer users a centralized hub for sharing short messages and engagin
 
 Users can seamlessly post tweets, follow their favorite accounts, and participate in conversations.
 
-You can see the live app [here](https://test.com)
+You can see the live app [here](https://tweet-hub.vercel.app/)
 
 $~$
 
@@ -28,20 +28,22 @@ $~$
 
 ### ❔ Why
 I made this app to learn the following
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Advanced Authentication
+- Firebase
+- Server Actions
+- Build Secure apps
 
 $~$
 
 ### 💻 Tech Stack
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Next.js 14
+- Firebase
+- Tailwind CSS
+- TypeScript
+- Shadcn UI
+- Prisma
+- MongoDB
+- Next Auth
 
 $~$
 
@@ -75,7 +77,7 @@ $~$
 7. Run the app (in dev mode)
    ```sh
    npm run dev
-   ``
+   ```
 
 $~$
 
